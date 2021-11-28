@@ -22,9 +22,3 @@ The 46elks account configuration should point to this service, using the `/incom
 ## Local development
 
 Run using ngrok as described in the official 46elks tutorials below.
-
-For more information:
-- https://46elks.com/docs/receive-call
-- https://46elks.com/docs/voice-record
-- https://46elks.com/tutorials/ivr-flask
-- https://46elks.com/tutorials/record-call
